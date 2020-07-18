@@ -1,0 +1,16 @@
+.header {
+   color: darkorange; 
+}
+.menu{
+    color:cyan ;
+    display:flex;
+    justify-content: flex-end ;
+}
+
+.items{
+    display:flex;
+    justify-content: flex-end;
+}
+*{
+    background-color:grey;
+}
